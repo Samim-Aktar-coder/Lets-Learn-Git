@@ -1,6 +1,6 @@
 function Sum() {
-    let a = 5;
-    let b = 9;
+    let a = 53;
+    let b = 47;
     return `The sum is ${a + b}`;
 }
 
