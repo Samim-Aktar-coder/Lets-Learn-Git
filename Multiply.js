@@ -1,6 +1,6 @@
 function Sum() {
-    let a = 5;
-    let b = 9;
+    let a = 10;
+    let b = 50;
     return `The product is ${a * b}`;
 }
 
